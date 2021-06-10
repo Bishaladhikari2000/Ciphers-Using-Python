@@ -22,3 +22,9 @@ Here, k = shifting key
       
 **Problem with Ceaser Cipher:**  As there is use of 26 possible keys, these keys can be easily cracked by hackers.
 
+### Monoalphabetic Cipher
+--> Monoalphabetic cipher is one where each symbol in plain text is mapped to a fixed symbol in cipher text.
+    
+Probability: 26! = 4 * 10^26
+
+![image](https://user-images.githubusercontent.com/82859040/121530360-116ab400-ca1d-11eb-9c28-31c6ff7011b4.png)
