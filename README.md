@@ -15,7 +15,7 @@ We are going to discuss about the following ciphers here:
 
 
 
-![Ciphers-Using-Python](https://user-images.githubusercontent.com/82859040/121269636-e890d480-c8df-11eb-9bf3-a06bd5f1ce40.png)
+
 
 Here, k = shifting key
       x = character to be encrypted or decrypted.
